@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="edu.udayton.homeworkout.Instructions">
+
+    <TextView
+        android:id="@+id/txtsteps"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:paddingBottom="@dimen/padding10dp"
+        android:paddingLeft="@dimen/padding10dp"
+        android:paddingRight="@dimen/padding10dp"
+        android:paddingTop="@dimen/padding10dp"
+        android:text="@string/instPush"
+        android:textColor="@android:color/black"
+        android:textSize="@dimen/txtStepSize" />
+</LinearLayout>

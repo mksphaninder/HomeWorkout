@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Home Workout</string>
+    <string name="txtPush">Push Ups</string>
+    <string name="txtPlank">Plank</string>
+    <string name="txtGlute">Glute Bridge</string>
+    <string name="txtSpider">Spider Lunge</string>
+    <string name="txtPlankTap">Plank Tap</string>
+    <string name="txtSquat">Squat</string>
+    <string name="txtside">Side Lunge</string>
+    <string name="txtsqjump">Squat Jump</string>
+    <string name="txtJumping">Jumping Lunge</string>
+    <string name="txtSingle">Single Leg Deadlift</string>
+    <string name="exercise">Exercise</string>
+    <string name="btntxt">Play Video ►</string>
+    <string name="picturetitle">PictureTitle</string>
+    <string name="txtInstructions">Instructions</string>
+
+    <string-array name="Workouts">
+        <item>Push Ups</item>
+        <item>Plank</item>
+        <item>Glute Bridge</item>
+        <item>Spider Lunge</item>
+        <item>Plank Tap</item>
+        <item>Squat</item>
+        <item>Side Lunge</item>
+        <item>Squat Jump</item>
+        <item>Jumping Lunge</item>
+        <item>Single Leg Deadlift</item>
+    </string-array>
+    <string name="instPush">Do\n\nPlace your hands directly under your shoulders. Position your feet hip-width apart. Maintain a plank position; your body should be in a straight line from from the back of your head to your hips. Keep your neck neutral, keeping it in line with your shoulders. As you lower, keep your elbows close to your body.\n\nDon’t \n\nLet your butt sag or stick up. Tilt your head up or tuck it in. Allow your shoulders to come towards your ears.\n\nMake it easier\n\nWiden the distance between your feet for better stability. Or perform the pushup as described above, but rather than starting in and returning to a plank position, do the pushup with your knees touching the ground. Just make sure to keep your back and thighs in a straight line.\n</string>
+    <string name="txtSteps">steps</string>
+    <string name="btnInst">Show Instructions</string>
+    <string name="instPlank">Do\n \nPlant your hands under your shoulders, or slightly wider apart. Squeeze your glutes. (That would be your butt.) Keep your body in a straight line from the top of your head through your feet. Tighten your core. Tuck your chin. Fix your gaze on the floor, either between or just beyond your hands. \n\nDon’t\n \nLet your butt lift or sag. Lift your head. Hold the position if your form is suffering — the only good exercise move is one that you do right. \n\nMake it easier\n \nHold the position for a shorter period.</string>
+    <string name="instGlute">Do\n\nLie on your back. Place your feet flat on the floor, hip-width apart, toes pointing forward, with your knees bent.  Contract your abs. Push through your heels to lift your hips off the floor. \n\nDon’t \n\nStop contracting your abs. Push your hips so high that the neutral position of your hips and back becomes compromised.</string>
+    <string name="instSpider">Do \n\nStart in the top of a pushup position. Bring your right foot to the outside of your right hand. Land with a flat foot. Bring your foot back to the starting position. Repeat on other side.  Maintain a strong plank position throughout. \n\nDon’t \n\nAllow your shoulders to move away from directly over your hands. Allow your hips to sag.</string>
+    <string name="instSquat">Do\n \nPosition your feet somewhere between hip- and shoulder-width apart. Turn your toes out as needed to accommodate flexibility through the movement. Keep your chest tall. Look ahead and slightly up. Be sure your knees are tracking in line with your toes. Squat as deep as your flexibility allows. \n\nDon’t\n \nLet your knees travel forward past your toes. Let your knees buckle inwards. Lift your heels off the ground. Shift your weight to your toes. \n\nMake it easier\n \nKeep the squat shallow if going deeper is difficult or pulling uncomfortably.</string>
+    <string name="instSide">Do \n\nKeep your chest up. Shift your weight through your midfoot and heel. Lunge as low as your flexibility allows. \n\n\nDon’t  \n\nLet your knees travel forward past your toes.</string>
+    <string name="instSqJmp">Do \n\nSquat until your thighs are parallel with the floor. Keep your chest up. Hold your arms straight in front of you as you squat, pushing them behind your back as you jump. Jump as high as you can. Exhale as you jump. Land softly. \n\nDon’t\n \nAllow your knees to travel past your toes. Shift your weight to your toes while squatting.</string>
+    <string name="instJmpLung">Do \n\nKeep your front knee at 90 degrees. Lunge as low as flexibility allows without the back knee touching the floor. Maintain a vertical torso. Keep your weight evenly distributed between your front and back foot. Jump to switch your foot positioning — front foot goes back, back foot goes front. Coordinate arm movement so that the front arm pumps forward while the opposite leg lunges back. Land softly. \n\nDon’t\n \nAllow your knee to touch the floor. \n\nMake it easier\n \nDon’t jump — just do regular lunges.</string>
+    <string name="instSingle">Do\n \nMaintain a flat back. Keep your core tight. Keep your weight evenly distributed in your planted leg. Raise one leg straight behind you, keeping your toes pointed down, as you bend forward, hinging at the hips. Bend only as low as your flexibility allows. Pull yourself back to standing using the hamstring (the back) of your planted leg. Keep your head neutral. \n\nDon’t\n \nReach for the floor by leading with your fingertips, which causes your back to round — instead, focus on keeping the back flat and hinging at the hips. Try to touch the floor if your flexibility will not allow it. Alternate legs between each rep — stick to one leg per set, and then switch to the other leg for the next set.</string>
+    <string name="pushupdesc">Pushups are hard. That’s why they’re so awesome. But, like any challenging exercise, that means form is paramount. You’re better off doing 10 modified pushups with perfect form than five full pushups with hunched shoulders or a drooping neck or hips. You’ll work the same core, chest and arm muscles while relieving a bit of the pressure, allowing you to train safely. The same rules apply as above; instead, start on hands and knees.</string>
+    <string name="picture_description">Picture Description</string>
+    <string name="instPlankTap">Do \n\nBegin in a plank position. Lightly tap your left shoulder with your right hand. Return your hands to the plank position. Alternate on the other side. Maintain a strong plank position with a tight core and glutes throughout. \n\nDon’t \n\nAllow your weight to shift as you tap your shoulders.</string>
+    <string name="txtHipRaise">Hip Raise</string>
+    <string name="instHipRaise">Do \nLie on your back on the floor with your knees bent and your feet flat on the floor. Place your arms out to your sides at a 45-degree angle, your palms facing up. Now try to make your tummy as skin Lie on your back on the floor with your knees bent and your feet flat on the floor. Place your arms out to your sides at a 45-degree angle, your palms facing up. Now try to make your tummy as skinny as possible and hold it that way—this gives you a tight core—while breathing normally. That\'s the starting position [A]. Keeping your core tight, squeeze your glutes and raise your hips so your body forms a straight line from your shoulders to your knees. Pause for five seconds—squeezing your glutes tightly the entire time—then lower body back to the starting position [B]. Do 10 repetitions.  your knees. Pause for five seconds—squeezing your glutes tightly the entire time—then lower body back to the starting position [B]. Do 10 repetitions.</string>
+    <string name="txtSidePlank">Side Plank</string>
+    <string name="instSidePlank">Do\n\nLie on your right side with your knees straight. Prop your upper body on your right elbow and forearm, which should be directly below your right shoulder. Place your left hand on your left hip. Try to make your tummy as skinny as possible and hold it that way—this gives you a tight core—while breathing normally. Then raise your hips until your body forms a straight line from your ankles to your shoulders. With your core tight, hold this position for 30 seconds. Roll onto your other side and repeat.</string>
+    <string name="txtFloorYTIRaises">Floor Y-T-I raises</string>
+    <string name="instFloorYTIRaises">Do\n\nThis is a three-exercise combination move. You\'ll simply perform 8 to 12 repetitions of each exercise, one after the other without resting. So do 8 to 12 reps of the Floor Y raise, followed immediately by 8 to 12 reps of the Floor T raise, followed immediately by 8 to 12 reps of the Floor I raise.</string>
+</resources>
